@@ -3,7 +3,7 @@
 
 -- A vibrant, full-screen video background website celebrating the Holi festival with immersive visuals and a responsive design.
 
-Demo: 
+# Demo: https://coding-with-rohit-914.github.io/Holi-Celebration-Website/
 
 🎨 Features
 
@@ -64,5 +64,6 @@ Demo:
 ⚡ Quick Note
 
 -- The navigation menu is currently commented out in the HTML but can be easily enabled for additional functionality like different video sections or color information.
+
 
 -- Celebrate the festival of colors with this immersive digital experience that brings the joy of Holi to your screen!
